@@ -1,8 +1,7 @@
-## 嗨，欢迎来到微观互联（Microsslinks）👋
 
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/40429a2a-a250-4c6b-ab4e-b21cff699cd2" />
 
-
+---
 
 - 🔭 我们是一个几个人组成的开源工作小组...
 - 🌱 正在探索AI的潜力和项目开发以及其应用场景 ...
