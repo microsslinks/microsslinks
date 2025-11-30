@@ -1,6 +1,7 @@
 ## 嗨，欢迎来到微观互联（Microsslinks）👋
 
-![](https://images.dukaworks.us.kg/picgo/微观互联工作室.png)
+![](https://images.dukaworks.us.kg/picgo/Microsslinks-Studio.png)
+
 
 - 🔭 我们是一个几个人组成的开源工作小组...
 - 🌱 正在探索AI的潜力和项目开发以及其应用场景 ...
