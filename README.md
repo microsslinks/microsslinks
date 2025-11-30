@@ -1,6 +1,7 @@
 ## 嗨，欢迎来到微观互联（Microsslinks）👋
 
-![](https://images.dukaworks.us.kg/picgo/Microsslinks-Studio.png)
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/40429a2a-a250-4c6b-ab4e-b21cff699cd2" />
+
 
 
 - 🔭 我们是一个几个人组成的开源工作小组...
