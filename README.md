@@ -1,8 +1,7 @@
 ## 嗨，欢迎来到微观互联（Microsslinks）👋
 
-![](https://images.dukaworks.us.kg/picgo/lyubomyr-lou-reverchuk-rtD_lcsN6_U-unsplash.jpg)
+![](https://images.dukaworks.us.kg/picgo/微观互联工作室.png)
 
----
 - 🔭 我们是一个几个人组成的开源工作小组...
 - 🌱 正在探索AI的潜力和项目开发以及其应用场景 ...
 - 👯 希望可以和大家一起协作，我们可以参与更多的项目，我们的项目可以得到大家的支持 ...
